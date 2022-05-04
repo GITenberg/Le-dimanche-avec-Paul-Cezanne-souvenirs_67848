@@ -1,0 +1,34 @@
+_repo: Le-dimanche-avec-Paul-Cezanne-souvenirs_67848
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larguier, Léo
+    alias: Larguier, Leo
+    birthdate: 1878
+    deathdate: 1950
+    gutenberg_agent_id: '52984'
+    url: http://www.gutenberg.org/2009/agents/52984
+    wikipedia: https://fr.wikipedia.org/wiki/L%C3%A9o_Larguier
+description: ''
+gutenberg_issued: '2022-04-16'
+identifiers:
+  gutenberg: '67848'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k3392692q
+pgterms:marc905: 20210313065632larguier
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :L'édition,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Cézanne, Paul, 1839-1906'
+- !lcsh 'Painters -- France -- Biography'
+- GITenberg
+title: Le dimanche avec Paul Cézanne (souvenirs)
+url: http://www.gutenberg.org/ebooks/67848
